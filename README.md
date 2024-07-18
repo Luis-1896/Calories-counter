@@ -1,5 +1,9 @@
 # React + TypeScript + Vite
 
+## Description
+
+This project is to counter the calories. To implemented this project I used React with TypeScript in Vite, I implemented differents hooks to do any action like useMemo() useEffect() useReducer(). For other hand, I used Tailwind like framework to style in my application
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
